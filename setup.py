@@ -7,6 +7,7 @@ setup(
                      particular areas of the screen redacted.''',
     author = 'Michael Cole',
     author_email = 'mcole2009@aol.com',
+    license = 'MIT',
     url = 'https://github.com/mcole22266/classipyd',
     download_url = 'https://github.com/mcole22266/classipyd/archive/0.0.1.tar.gz',
     keywords = ['redacting', 'screenshot', 'video', 'capture'],
